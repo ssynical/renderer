@@ -31,7 +31,7 @@ installation
 -----------
 just drop the renderer.luau file into your project and require it:
 ```lua
-local Renderer = require("luau")
+local Renderer = require("renderer")
 ```
 you WILL need a program named ['runluau'](https://github.com/plusgiant5/runluau) to run this, and the gfx [plugin](https://github.com/plusgiant5/runluau-plugins) for gfx to be exposed.
 more information on that in their respective repos
