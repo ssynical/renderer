@@ -121,4 +121,4 @@ have fun!
 that's pretty much it! play around with it and make something cool. if you run into any issues, open one, or if you want to contribute, feel free to pr.
 
 made with love 🖤
-last updated: 28.1.2025
+last updated: 28.8.2025
